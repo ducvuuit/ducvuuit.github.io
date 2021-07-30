@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vu-Truong Blog</title>
+    <link>http://ducvuuit.github.io/posts/</link>
+    <description>Recent content in Posts on Vu-Truong Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jul 2021 09:51:08 +0700</lastBuildDate><atom:link href="http://ducvuuit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My</title>
+      <link>http://ducvuuit.github.io/posts/my/</link>
+      <pubDate>Fri, 30 Jul 2021 09:51:08 +0700</pubDate>
+      
+      <guid>http://ducvuuit.github.io/posts/my/</guid>
+      <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>Myfirstpost</title>
+      <link>http://ducvuuit.github.io/posts/myfirstpost/</link>
+      <pubDate>Fri, 30 Jul 2021 09:44:47 +0700</pubDate>
+      
+      <guid>http://ducvuuit.github.io/posts/myfirstpost/</guid>
+      <description>Xin chao tat ca moi nguoi!</description>
+    </item>
+    
+  </channel>
+</rss>
